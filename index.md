@@ -5,7 +5,7 @@ badges:
 ---
 # Cartesian and IDEX support
 
-EVA 2 supports not only CoreXY printers. You can also use it on a 6mm cartesian or even IDEX system.
+EVA 2 supports not only CoreXY printers. You can also use it on a 6mm belt cartesian or even IDEX system.
 
 ??? warning "IDEX Z offset caveat"
 
@@ -17,11 +17,12 @@ EVA 2 supports not only CoreXY printers. You can also use it on a 6mm cartesian 
 
 !!! success "V-cast users"
 
-    If you are a user of a standard, MGN15 V-cast user and fill quite lost in the new EVA 2 submodule system then think about what you need:
+    If you are a user of a standard, MGN15 V-cast and feel quite lost in the new EVA 2 submodule system then think about what you need:
 
     - your choosen EVA drive, e.g. [BMG](../../drives/bmg/)
     - the [MGN15 addon](../mgn15/) - since V-cast is MGN15
     - this addon for your Cartesian/IDEX printer
+    - a [probe](../probes/) mount addon
 
 ![preview](assets/__ALL__.png)
 
