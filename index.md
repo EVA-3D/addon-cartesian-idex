@@ -57,4 +57,5 @@ EVA 2 supports not only CoreXY printers. You can also use it on a 6mm belt carte
 
 ### Links
 
-{{ eva_download_button() }}
+{{ download_button }}
+{{ cad_link }}
