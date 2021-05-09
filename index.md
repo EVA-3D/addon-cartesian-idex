@@ -7,7 +7,7 @@ type: addon
 contributors: 
     - pkucmus
 repo_url: https://github.com/EVA-3D/addon-cartesian-idex
-cad_url: https://cad.onshape.com/documents/d24027dd78e7164add26b5f5/w/0615251dcae8664926ca1aa2/e/e01d9ebd9e9d0542d74812ce
+cad_url: https://cad.onshape.com/documents/a2d21b0faa4745fa21bc844e/w/d7f14dfeeee2e68fe2f1149b/e/fcd1503d3995b7b7473cc831
 ---
 # Cartesian and IDEX support
 
